@@ -11,7 +11,7 @@ export default function Nav() {
       </li>
       <li className="nav-item">
         <NavLink className="nav-link" to="/stock">
-          Stock
+          Stocks
         </NavLink>
       </li>
       <li className="nav-item">
